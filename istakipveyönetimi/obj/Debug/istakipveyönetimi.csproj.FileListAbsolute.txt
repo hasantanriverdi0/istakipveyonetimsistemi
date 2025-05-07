@@ -1,0 +1,17 @@
+C:\Users\hasan\source\repos\istakipveyönetimi\istakipveyönetimi\bin\Debug\istakipveyönetimi.exe.config
+C:\Users\hasan\source\repos\istakipveyönetimi\istakipveyönetimi\bin\Debug\istakipveyönetimi.exe
+C:\Users\hasan\source\repos\istakipveyönetimi\istakipveyönetimi\bin\Debug\istakipveyönetimi.pdb
+C:\Users\hasan\source\repos\istakipveyönetimi\istakipveyönetimi\obj\Debug\istakipveyönetimi.csproj.AssemblyReference.cache
+C:\Users\hasan\source\repos\istakipveyönetimi\istakipveyönetimi\obj\Debug\istakipveyönetimi.anasayfa.resources
+C:\Users\hasan\source\repos\istakipveyönetimi\istakipveyönetimi\obj\Debug\istakipveyönetimi.calisan.resources
+C:\Users\hasan\source\repos\istakipveyönetimi\istakipveyönetimi\obj\Debug\istakipveyönetimi.calisanekle.resources
+C:\Users\hasan\source\repos\istakipveyönetimi\istakipveyönetimi\obj\Debug\istakipveyönetimi.giris.resources
+C:\Users\hasan\source\repos\istakipveyönetimi\istakipveyönetimi\obj\Debug\istakipveyönetimi.görevata.resources
+C:\Users\hasan\source\repos\istakipveyönetimi\istakipveyönetimi\obj\Debug\istakipveyönetimi.görevsil.resources
+C:\Users\hasan\source\repos\istakipveyönetimi\istakipveyönetimi\obj\Debug\istakipveyönetimi.proje.resources
+C:\Users\hasan\source\repos\istakipveyönetimi\istakipveyönetimi\obj\Debug\istakipveyönetimi.projeekle.resources
+C:\Users\hasan\source\repos\istakipveyönetimi\istakipveyönetimi\obj\Debug\istakipveyönetimi.Properties.Resources.resources
+C:\Users\hasan\source\repos\istakipveyönetimi\istakipveyönetimi\obj\Debug\istakipveyönetimi.csproj.GenerateResource.cache
+C:\Users\hasan\source\repos\istakipveyönetimi\istakipveyönetimi\obj\Debug\istakipveyönetimi.csproj.CoreCompileInputs.cache
+C:\Users\hasan\source\repos\istakipveyönetimi\istakipveyönetimi\obj\Debug\istakipveyönetimi.exe
+C:\Users\hasan\source\repos\istakipveyönetimi\istakipveyönetimi\obj\Debug\istakipveyönetimi.pdb
